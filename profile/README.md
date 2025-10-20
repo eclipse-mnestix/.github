@@ -20,9 +20,9 @@ Find our Eclipse Project here: https://projects.eclipse.org/projects/dt.mnestix
 
 <p align="center">
   <a href="https://xitaso.com/en/competences/mnestix-2/#optin_form">
-    <img height="200px" alt="Subscribe to our Newsletter" src="https://github.com/user-attachments/assets/dcb5eef1-2bbc-4454-97d4-964ee3c260e2" />
+    <img height="200px" alt="Subscribe to our Newsletter" src="https://github.com/user-attachments/assets/46f1de98-a756-4943-9346-6915d323637f" />
   </a>
-</p>
+
 
 ## Eclipse Mnestix AAS Browser
 
