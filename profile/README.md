@@ -40,6 +40,8 @@ You can easily extend the Browser with custom visualisations. An example on how 
 
 ## Eclipse Mnestix AAS Proxy
 
+Documentation: https://github.com/eclipse-mnestix/mnestix-proxy/wiki
+
 Mnestix AAS Proxy Repository: https://github.com/eclipse-mnestix/mnestix-proxy
 
 Docker Image `mnestix/mnestix-proxy:latest`: https://hub.docker.com/r/mnestix/mnestix-proxy
@@ -50,8 +52,10 @@ Additional Features, such as eventing are also provided to easily integrate the 
 
 ## Mnestix AAS Generator
 
-The formaly known Data Ingest Endpoint is used to create multiple AAS using blueprints that can be created with Mnestix AAS Browser.
+Documentation: https://github.com/eclipse-mnestix/mnestix-aas-generator/wiki 
 
-While it is not yet Open Source, you can find the documentation here: https://github.com/eclipse-mnestix/mnestix-browser/wiki/Mnestix-API-Data-Ingest
+Mnestix AAS Generator Repository: https://github.com/eclipse-mnestix/mnestix-aas-generator
 
 Docker Image `mnestix/mnestix-aas-generator:latest`: https://hub.docker.com/r/mnestix/mnestix-aas-generator
+
+The Mnestix AAS Generator provides REST APIs and services for managing Asset Administration Shells (AAS) within the Eclipse Mnestix ecosystem. It enables automated Submodel generation from structured data using a rules engine, template management, repository integration, and more.
